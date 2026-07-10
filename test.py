@@ -1,1 +1,6 @@
 print("Chonlasit")
+print("Chonlasit1")
+print("Chonlasit2")
+print("Chonlasit3")
+print("Chonlasit4")
+print("Chonlasit5")
